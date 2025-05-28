@@ -1,4 +1,4 @@
-# Guida Completa YOOtheme Pro
+# Guida YOOtheme Pro
 
 ## Introduzione
 
